@@ -27,6 +27,6 @@ switch state
   case 'done'
 
   otherwise
-    error('yikes. you fucked up, idiot.')
+    error('womp womp')
 end
 end
